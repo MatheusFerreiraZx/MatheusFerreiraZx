@@ -9,8 +9,6 @@ Matheus Ferreira, 20y, :brazil: - brasileiro!
 - 🌱 Cursando ADS 2/5 e Estudando iOS.
   
 :us: 🌱 Systems Analysis and Development Student 2/5 and iOS Enthusiast. 
- 
-- 😄 Pronomes: ele/dele. he/his
 
 
 <div style="display: inline_block"><br>
