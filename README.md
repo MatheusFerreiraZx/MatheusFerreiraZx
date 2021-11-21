@@ -6,9 +6,9 @@ Matheus Ferreira, 20y, :brazil: - brasileiro!
      
 :us: 🔭 Today I work as Front-End Junior 2, using JS, ReactJS technologies. I have experience with C# in College. 
      
-- 🌱 Cursando ADS 2/5 e Estudando iOS.
+- 🌱 Cursando ADS 2/5.
   
-:us: 🌱 Systems Analysis and Development Student 2/5 and iOS Enthusiast. 
+:us: 🌱 Systems Analysis and Development Student 2/5t. 
 
 
 <div style="display: inline_block"><br>
