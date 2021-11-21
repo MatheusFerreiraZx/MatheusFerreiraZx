@@ -8,7 +8,7 @@ Matheus Ferreira, 20y, :brazil: - brasileiro!
      
 - 🌱 Cursando ADS 2/5.
   
-:us: 🌱 Systems Analysis and Development Student 2/5t. 
+:us: 🌱 Systems Analysis and Development Student 2/5. 
 
 
 <div style="display: inline_block"><br>
