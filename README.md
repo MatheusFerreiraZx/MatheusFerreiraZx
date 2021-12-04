@@ -2,9 +2,9 @@
 
 Matheus Ferreira, 20y, :brazil: - brasileiro!
 
-- 🔭 Hoje eu trabalho como Front-End Junior 2, usando as tecnologias JS, ReactJS. Tenho experiência com C# na Faculdade.
+- 🔭 Oi! Meu nome é Matheus, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho conhecimento em lógica de programação e estrutura de dados, JAVA e desenvolvimento Web com JavaScript/React. Eu também vi um pouco de C # na faculdade. Aberto para aprender e com vontade de trabalhar. Entusiasta de tecnologia e boa comunicação com as pessoas
      
-:us: 🔭 Today I work as Front-End Junior 2, using JS, ReactJS technologies. I have experience with C# in College. 
+:us: 🔭 Hi! My name is Matheus, I'm 20 years old and I'm a Systems Analysis and Development student. I have knowledge in programming logic and data structure, JAVA and Web development with JavaScript/React. I also saw some C# at graduation. Open to learning and willing to work. Technology enthusiast and good communication with people. 
      
 - 🌱 Cursando ADS 2/5.
   
