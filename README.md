@@ -6,7 +6,7 @@ Matheus Ferreira, 20y, :brazil: - brasileiro!
      
 :us: 🔭 Hi! My name is Matheus, I'm 20 years old and I'm a Systems Analysis and Development student. I have knowledge in programming logic and data structure and Web development with JavaScript/React. I also saw some C# at graduation. Open to learning and willing to work. Technology enthusiast and good communication with people. 
      
-- 🌱 Cursando ADS 3/5.
+- 🌱 Cursando ADS 4/5.
   
 :us: 🌱 Systems Analysis and Development Student 3/5. 
 
