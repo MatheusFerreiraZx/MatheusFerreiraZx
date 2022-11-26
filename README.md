@@ -4,7 +4,7 @@ Dev Front-End at Bemobi;
 
 Currently living in Recife-PE, Brazil;
 
-Main Languages: JavaScript, TypeScript, Golang, Python, Java, Java Mustache, Freemarker;
+Main Languages: JavaScript, TypeScript, Golang, Python, Java, Mustache, Java Freemarker;
 
 Main Frameworks: React JS;
 
