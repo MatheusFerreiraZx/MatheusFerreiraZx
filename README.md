@@ -1,13 +1,2 @@
-Perfil do Matheus onde vai ser postado Projetos Pessoais e trabalhos da Faculdade..
-
-Dev Front-End at Bemobi; 
-
-Currently living in Recife-PE, Brazil;
-
-Main Languages: JavaScript, TypeScript, Golang, Python, Java, Mustache, Java Freemarker;
-
-Main Frameworks: React JS;
-
-BD: PostgresSQL;
-
-Tools: AWS, Jira, Git.
+Software Engineer with focus in Front-end with experience in React, JavaScript, Typescript, Apache Freemarker, Mustache HTML, Golang, PostgreSQL, SEO, Unit Tests, AWS, Git, Bitbucket, Jira, Postman and Kibana.
+Currently working on building and maintaining apps and services, creating responsive landing pages and templates, and investigating bugs in the solutions behind a user's journey towards acquiring services.
