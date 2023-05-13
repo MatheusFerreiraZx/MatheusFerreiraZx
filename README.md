@@ -13,6 +13,5 @@ As a software engineer with a focus on front-end development, I have experience 
 
  ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFerreiraZx&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFerreiraZx&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFerreiraZx&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusFerreiraZx&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusFerreiraZx&theme=dracula) |
+| :-: | :-: | :-: |
