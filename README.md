@@ -5,6 +5,7 @@
 </h4>
 
 <div style="display: inline_block"><br>
+        <img align="center" alt="Matt-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/swift.svg">
     <img align="center" alt="Matt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Matt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -12,7 +13,7 @@
  
   ##
 
-Full-stack JavaScript developer
+  Software Engineer
 
  ##
 
