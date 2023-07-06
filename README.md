@@ -12,7 +12,7 @@
  
   ##
 
-  Frontend developer.
+  As a Software engineer. I'm specializing in frontend development, user experience, and web builds.
 
  ##
 
