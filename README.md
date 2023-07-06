@@ -12,7 +12,7 @@
  
   ##
 
-  Software Engineer
+  Frontend developer.
 
  ##
 
