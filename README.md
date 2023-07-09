@@ -17,5 +17,4 @@
 
  ##
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFerreiraZx&theme=dracula) |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusFerreiraZx&theme=dracula) |
-| :-: | :-: | :-: |
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFerreiraZx&theme=dracula) 
