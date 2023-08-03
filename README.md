@@ -9,7 +9,7 @@
      <img align="center" alt="Matt-next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Matt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-     <img align="center" alt="Matt-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/sass/sass-original.svg">
+     <img align="center" alt="Matt-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
      <img align="center" alt="Matt-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
  
