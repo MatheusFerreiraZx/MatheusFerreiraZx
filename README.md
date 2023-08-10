@@ -17,18 +17,6 @@
 
 front-end developer.
 
-- typescript
-- react
-- next
-- vueJS
-- scss
-- aws
-- postgresql
-- mustache
-- java freemarker template engine
-
-
-  and sometimes, I code in swift for fun.
  ##
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFerreiraZx&theme=dracula) 
