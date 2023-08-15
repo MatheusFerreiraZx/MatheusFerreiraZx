@@ -15,7 +15,23 @@
  
   ##
 
-front-end developer.
+Software Developer since 2020, front-end developer.
+
+   My Skills: 
+
+ - TypeScript
+ - React
+ - Next
+ - VueJS
+ - SCSS
+ - Redux
+ - Jest
+ - Storybook
+ - Testing Library
+ - AWS S3 & OpsWork
+ - PostgreSQL
+ - Mustache
+ - Java Freemarker Template Engine
 
  ##
 
