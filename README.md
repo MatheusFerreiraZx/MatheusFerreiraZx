@@ -22,7 +22,7 @@ Software Developer since 2020, front-end developer.
  - TypeScript
  - React
  - Next
- - VueJS
+ - VueJS   
  - SCSS
  - Redux
  - Jest
@@ -32,6 +32,8 @@ Software Developer since 2020, front-end developer.
  - PostgreSQL
  - Mustache
  - Java Freemarker Template Engine
+ - Swift
+ - SwiftUI
 
  ##
 
