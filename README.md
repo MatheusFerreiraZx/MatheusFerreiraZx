@@ -8,10 +8,10 @@ Hello, I'm Matheus! 👋
 
 ### Skills
 
-- iOS Development with Swift (UIKit and SwiftUI).
-- Front-end Development with HTML, CSS, Javascript, React and NextJS.
+- iOS Development (Swift, UIKit && SwiftUI)
+- Front-end Development (Typescript, React)
 
-###  Contact Me
+###  Socials
 - <a href="https://www.linkedin.com/in/matheuszx/">Linkedin</a>
 - <a href="mathferreiranasc12@gmail.com">Email</a>
 </div>
