@@ -8,8 +8,9 @@ Hello, I'm Matheus! 👋
 
 ### Skills
 
-- iOS Development (Swift, UIKit && SwiftUI)
 - Front-end Development (Typescript, React)
+- Back-end Development (Golang, Java, Spring)
+- iOS Development (Swift, UIKit && SwiftUI)
 
 ###  Socials
 - <a href="https://www.linkedin.com/in/matheuszx/">Linkedin</a>
