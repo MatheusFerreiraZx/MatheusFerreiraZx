@@ -8,8 +8,8 @@ Hello, I'm Matheus! 👋
 
 ### Skills
 
-- Front-end Development (Typescript, React)
-- Back-end Development (Golang, Java, Spring)
+- Front-end Development (Typescript, React, Next, Tailwind, Scss)
+- Back-end Development (Golang, Java)
 - iOS Development (Swift, UIKit && SwiftUI)
 
 ###  Socials
