@@ -8,9 +8,9 @@ Hello, I'm Matheus! 👋
 
 ### Skills
 
-- Front-end Development (Typescript, React, Next, Tailwind, Scss)
+- Front-end Development (Typescript, React, Next, Tailwind, SASS)
+- - iOS Development (Swift, UIKit && SwiftUI)
 - Back-end Development (Golang, Java)
-- iOS Development (Swift, UIKit && SwiftUI)
 
 ###  Socials
 - <a href="https://www.linkedin.com/in/matheuszx/">Linkedin</a>
