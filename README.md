@@ -1,10 +1,11 @@
 <h1 align="center">Matheus Ferreira</h1>
 
-<h3 align="center">Greetings! Tech Enthusiast and iOS Developer here! 👋</h3>
+<h3 align="center">Greetings! Tech Enthusiast here! 👋</h3>
 
 ##
-- 📱 Passioned iOS developer.
-- 📖 I love to learn new technologies and build cool stuff.
+- Passioned Software Developer.
+- I love to learn new technologies and build cool stuff.
+- I had experience with: ReactJS, Golang and Swift.
 
 ## ✉️ Find me on:
 
