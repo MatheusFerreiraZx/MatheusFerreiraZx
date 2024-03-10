@@ -3,9 +3,10 @@
 <h3 align="center">Greetings! Tech Enthusiast here! 👋</h3>
 
 ##
-- Passioned Software Developer.
+- Passioned Software Enginner.
+- I have a strong passion about iOS Development and mobile development. 
 - I love to learn new technologies and build cool stuff.
-- I had experience with: ReactJS, Golang and Swift.
+- I had experience with: iOS Development with UIKit and SwiftUI, Frontend development with ReactJS and some of backend development with Golang.
 
 ## ✉️ Find me on:
 
