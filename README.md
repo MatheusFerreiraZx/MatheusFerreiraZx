@@ -5,17 +5,14 @@
 ##
 🇺🇸
 Software Engineer with 3 years of experience, fluent in English and Portuguese. 
-
 Over these years, I've been working with Swift, UIKit, SwiftUI, AWS, SQL databases and I also had experience with Golang in backend and ReactJS in the frontend, working in a huge company with a massive amount of data.
-
 I have hands-on experience with AWS infrastructure and observability tools such as Zabbix, Kibana, and New Relic.
 
 🇧🇷
-Software Engineer com 3 anos de experiência, fluente em inglês e português.
-
+ Software Engineer com 3 anos de experiência, fluente em inglês e português.
 Durante esses anos, tenho trabalhado com Swift, UIKit, SwiftUI, AWS, bancos de dados SQL, além de ter experiência com Golang no backend e ReactJS no frontend, atuando em uma grande empresa com uma quantidade massiva de dados.
-
 Possuo experiência prática com a infraestrutura da AWS e ferramentas de observabilidade como Zabbix, Kibana e New Relic.
+
 ## ✉️ Find me on:
 
    - [Linkedin](https://www.linkedin.com/in/matheuszx)
