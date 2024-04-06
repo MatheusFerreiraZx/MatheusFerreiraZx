@@ -42,10 +42,9 @@ I'm a Software Engineer with 3 years of experience, fluent in English and Portug
   </br>
 </div>
 
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MatheusFerreiraZx&theme=dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=MatheusFerreiraZx&show_icons=true&theme=dark&layout=compact" />
+<div align="center" style="margin-bottom:100px">
+    <img width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFerreiraZx&theme=dark&mode=weekly" />
+    <img width="50%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=MatheusFerreiraZx&layout=compact&langs_count=6&hide=html,css&theme=dark" />
 </div>
  
  &nbsp;
