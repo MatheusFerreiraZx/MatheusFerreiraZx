@@ -4,14 +4,10 @@
 
 ##
 🇺🇸
-Software Engineer with 3 years of experience, fluent in English and Portuguese. 
-Over these years, I've been working with Golang in backend and ReactJS in the frontend, working in a huge company with a massive amount of data.
-I have hands-on experience with AWS infrastructure and observability tools such as Zabbix, Kibana, and New Relic.
+I'm a Software Engineer with 3 years of experience, fluent in English and Portuguese. Over these years, I've worked in a large company handling massive data. I'm communicative, adept at building quick connections, and thrive on curiosity and challenges.
 
 🇧🇷
- Software Engineer com 3 anos de experiência, fluente em inglês e português.
-Durante esses anos, tenho trabalhado com Golang no backend e ReactJS no frontend, atuando em uma grande empresa com uma quantidade massiva de dados.
-Possuo experiência prática com a infraestrutura da AWS e ferramentas de observabilidade como Zabbix, Kibana e New Relic.
+ Sou um Engenheiro de Software com 3 anos de experiência, fluente em inglês e português. Ao longo desses anos, trabalhei em uma grande empresa lidando com enormes volumes de dados. Sou comunicativo, habilidoso em estabelecer conexões rapidamente, e prospero em curiosidade e desafios
 
 ## ✉️ Find me on:
 
