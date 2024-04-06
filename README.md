@@ -14,6 +14,16 @@ I'm a Software Engineer with 3 years of experience, fluent in English and Portug
 🇧🇷
 Sou um Engenheiro de Software com 3 anos de experiência, fluente em inglês e português. Ao longo desses anos, trabalhei em uma grande empresa lidando com enormes volumes de dados. Sou comunicativo, habilidoso em estabelecer conexões rapidamente, e prospero em curiosidade e desafios.
 
+## 
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="30%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=MatheusFerreiraZx&layout=compact&langs_count=6&hide=html,css&theme=dark" />
+  </a>
+</p>
+
+##
+
 ### Main Stack:
 
 ![Swift](https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
@@ -34,11 +44,4 @@ Sou um Engenheiro de Software com 3 anos de experiência, fluente em inglês e p
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFerreiraZx&theme=dark&mode=weekly" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" align="left" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=MatheusFerreiraZx&layout=compact&langs_count=6&hide=html,css&theme=dark" />
-  </a>
-</p>
+
