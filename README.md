@@ -27,6 +27,7 @@ Sou um Engenheiro de Software com 3 anos de experiência, fluente em inglês e p
 ### Main Stack:
 
 ![Swift](https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
