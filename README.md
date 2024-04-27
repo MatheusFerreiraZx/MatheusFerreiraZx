@@ -9,10 +9,32 @@
 ##
 
 🇺🇸
-I'm a Software Engineer with 3 years of experience, fluent in English and Portuguese. Over these years, I've worked in a large company handling massive data. I'm communicative, adept at building quick connections, and thrive on curiosity and challenges.
+I'm a passionate iOS developer with over 3 years of experience crafting user-centric mobile applications. fluent in English and Portuguese. I'm proficient in Swift, SwiftUI, and UIKit, and I'm well-versed in building robust and scalable applications.
 
-🇧🇷
-Sou um Engenheiro de Software com 3 anos de experiência, fluente em inglês e português. Ao longo desses anos, trabalhei em uma grande empresa lidando com enormes volumes de dados. Sou comunicativo, habilidoso em estabelecer conexões rapidamente, e prospero em curiosidade e desafios.
+##
+
+### My Skills:
+
+- Swift & SwiftUI: Expert in modern iOS development using Swift and building intuitive interfaces with SwiftUI.
+- UIKit: Adept at building native iOS applications with UIKit for a variety of functionalities.
+- Clean Code: I prioritize writing clean, maintainable, and well-documented code.
+- Version Control: Proficient in Git for version control and collaboration.
+- Open Source: Enthusiastic about contributing to open-source projects.
+
+##
+
+### I'm always open to:
+
+Contributing to existing open-source projects.
+Collaborating on new and exciting iOS projects.
+Learning and exploring new technologies in the mobile development world.
+
+##
+
+### Feel free to:
+
+Reach out for freelance opportunities.
+Connect with me on [LinkedIn URL] (or other professional networking sites).
 
 ## 
 
@@ -27,8 +49,6 @@ Sou um Engenheiro de Software com 3 anos de experiência, fluente em inglês e p
 ### Main Stack:
 
 ![Swift](https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
