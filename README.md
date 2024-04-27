@@ -9,7 +9,9 @@
 ##
 
 🇺🇸
-I'm a passionate iOS developer with over 3 years of experience crafting user-centric mobile applications. fluent in English and Portuguese. I'm proficient in Swift, SwiftUI, and UIKit, and I'm well-versed in building robust and scalable applications.
+I'm a passionate iOS developer with over 3 years of experience crafting user-centric mobile applications. 
+fluent in English and Portuguese. 
+I'm proficient in Swift, SwiftUI, and UIKit, and I'm well-versed in building robust and scalable applications.
 
 ##
 
@@ -34,7 +36,7 @@ Learning and exploring new technologies in the mobile development world.
 ### Feel free to:
 
 Reach out for freelance opportunities.
-Connect with me on [LinkedIn URL] (or other professional networking sites).
+Connect with me on [[LinkedIn](https://www.linkedin.com/in/matheuszx/)].
 
 ## 
 
