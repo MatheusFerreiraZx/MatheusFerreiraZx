@@ -1,7 +1,5 @@
 <h1 align="center">Matheus Ferreira da Silva Nascimento</h1>
 
-<h3 align="center">Greetings! Tech Enthusiast here! 👋</h3>
-
 ##
 
 🇺🇸
