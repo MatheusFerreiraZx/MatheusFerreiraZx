@@ -12,7 +12,6 @@ I'm proficient in Swift, SwiftUI, and UIKit, and I'm well-versed in building rob
 
 ### Feel free to:
 
-Reach out for freelance opportunities.
 Connect with me on [[LinkedIn](https://www.linkedin.com/in/matheuszx/)].
 
 ## 
@@ -24,24 +23,5 @@ Connect with me on [[LinkedIn](https://www.linkedin.com/in/matheuszx/)].
 </p>
 
 ##
-
-### Main Stack:
-
-![Swift](https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
-### Databases:
-
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-
-### Tools:
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
 
