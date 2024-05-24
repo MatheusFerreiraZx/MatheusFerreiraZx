@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatheusFerreiraZx&color=green" alt="Profile views">
-</div>
-
 <h1 align="center">Matheus Ferreira da Silva Nascimento</h1>
 
 <h3 align="center">Greetings! Tech Enthusiast here! 👋</h3>
@@ -15,23 +11,6 @@ I'm proficient in Swift, SwiftUI, and UIKit, and I'm well-versed in building rob
 
 ##
 
-### My Skills:
-
-- Swift & SwiftUI: Expert in modern iOS development using Swift and building intuitive interfaces with SwiftUI.
-- UIKit: Adept at building native iOS applications with UIKit for a variety of functionalities.
-- Clean Code: I prioritize writing clean, maintainable, and well-documented code.
-- Version Control: Proficient in Git for version control and collaboration.
-- Open Source: Enthusiastic about contributing to open-source projects.
-
-##
-
-### I'm always open to:
-
-Contributing to existing open-source projects.
-Collaborating on new and exciting iOS projects.
-Learning and exploring new technologies in the mobile development world.
-
-##
 
 ### Feel free to:
 
