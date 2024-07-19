@@ -1,7 +1,3 @@
-I'm a passionate iOS developer crafting user-centric mobile applications. 
-
+Passionate tech entusiast. 
 
 fluent in English and Portuguese. 
-
-
-I'm proficient in Swift, SwiftUI, and UIKit, and I'm well-versed in building robust and scalable applications.
